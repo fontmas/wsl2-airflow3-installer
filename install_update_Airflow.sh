@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # ==============================================================================
-# Github: 
+# Github: https://github.com/fontmas/wsl2-airflow3-installer
 # Script: Airflow 3.x Installer (WSL + Windows Bridge)
 # ==============================================================================
 
