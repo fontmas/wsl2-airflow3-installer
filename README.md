@@ -30,12 +30,12 @@ An automated, interactive Bash utility designed to install, manage, and run **Ap
 
 2.  **Make the script executable:**
     ```bash
-    chmod +x airflow_installer.sh
+    chmod +x install_update_Airflow.sh
     ```
 
 3.  **Run the script:**
     ```bash
-    ./airflow_installer.sh
+    ./install_update_Airflow.sh
     ```
 
 ## 🧰 Interactive Menu Options
